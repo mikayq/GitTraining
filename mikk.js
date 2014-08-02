@@ -1,0 +1,3 @@
+funtion Hey(){
+	return 'mik';
+}
